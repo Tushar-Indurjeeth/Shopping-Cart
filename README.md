@@ -19,7 +19,7 @@ A simple website built using [React](https://reactjs.org/), [TypeScript](https:/
 [Fake Store API](https://fakestoreapi.com/)
 
 ## Platform
-Hosted through [Heroku](https://www.heroku.com/)
+Hosted through [Heroku](https://www.heroku.com/).
 
 ## License
 Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/Shopping-Cart/blob/f5fec38da7c52fc1c115a6f365511a989a9e75cf/LICENSE).
