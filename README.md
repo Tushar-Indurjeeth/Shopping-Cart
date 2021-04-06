@@ -1,5 +1,5 @@
 # Shopping Cart
-A simple website built using [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/) and [Styled Components](https://styled-components.com/).
+A simple shopping website built using [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/) and [Styled Components](https://styled-components.com/).
 
 ## Live demo
 [https://shopping-cart1203.herokuapp.com/](https://shopping-cart1203.herokuapp.com/)
