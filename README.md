@@ -1,9 +1,6 @@
 # Shopping Cart
 A simple shopping website built using [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/) and [Styled Components](https://styled-components.com/).
 
-## Live demo
-[https://shopping-cart1203.herokuapp.com/](https://shopping-cart1203.herokuapp.com/)
-
 ## How it works
 - Data is pulled from [Fake Store API](https://fakestoreapi.com).
 - You can add and remove items from the Cart.
